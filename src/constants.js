@@ -1,0 +1,2 @@
+export const SLACK_OUATH_TOKEN = 'xoxb-2663725586196-2701990347585-E8clwE4PHEmyrZggZsX2vO7N'
+export const BOT_SPAM_CHANNEL = '#bot-spam'
